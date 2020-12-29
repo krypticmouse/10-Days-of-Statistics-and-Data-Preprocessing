@@ -1,2 +1,3 @@
 # 10-Days-of-Statistics-and-Data-Preprocessing
-![10 Days Of Statistics and Data Preprocessing@2x](https://user-images.githubusercontent.com/43719685/103299050-b2425580-4a21-11eb-8213-bd518d89f395.png)
+List of all the resources I used during 10 days of Statistics and Data Preprocessing.
+![10 Days Of Statistics and Data Preprocessing](https://user-images.githubusercontent.com/43719685/103299168-f03f7980-4a21-11eb-9195-b95a3f339b8c.png)
